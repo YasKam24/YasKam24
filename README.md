@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-![Typing Animation](https://raw.githubusercontent.com/YasKam24/YasKam24/main/Name.svg)
+## Check out my typing animation!
+
+[![Typing Animation](https://img.shields.io/badge/Visit%20Typing%20Animation-%2300ff00?style=for-the-badge)](https://yaskam24.github.io/YasKam24/)
+
 
 
 
