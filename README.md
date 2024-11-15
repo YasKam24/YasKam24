@@ -32,14 +32,6 @@ YasKam24@github:~$ ./Welcome.sh
                                                       (__(__)___(__)__)
 ```
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-
 
 
 <p align='center'>
