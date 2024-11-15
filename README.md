@@ -3,7 +3,10 @@
 ## Check out my typing animation!
 
 
-![Typing Animation](https://github.com/YasKam24/YasKam24/blob/main/assests/Animation.gif)
+<p align="center">
+  <img src="https://github.com/YasKam24/YasKam24/blob/main/assests/Animation.gif" alt="Typing Animation">
+</p>
+
 
 
 
