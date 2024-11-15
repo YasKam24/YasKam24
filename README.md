@@ -21,13 +21,13 @@ YasKam24@github:~$ ./HelloEveryone.sh
 🎵 Love Relax, instrumental, party songs
 ```
 ```
-                                                      /\_____/\
-                                                     /  o   o  \
-                                                    ( ==  ^  == )
-                                                     )         (
-                                                    (           )
-                                                   ( (  )   (  ) )
-                                                  (__(__)___(__)__)
+                                                          /\_____/\
+                                                         /  o   o  \
+                                                        ( ==  ^  == )
+                                                         )         (
+                                                        (           )
+                                                       ( (  )   (  ) )
+                                                      (__(__)___(__)__)
 ```
 
 <div align="center">
