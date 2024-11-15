@@ -7,9 +7,14 @@
 
 
 
+
 ``` Console
 YasKam24@github:~$ ./HelloEveryone.sh
 ```
+
+![Profile Views](https://komarev.com/ghpvc/?username=YasKam24)
+
+
 
 ```
 -------------------------
@@ -37,6 +42,12 @@ YasKam24@github:~$ ./HelloEveryone.sh
   
   <br/><br/><br/>
 </div>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kamble-415aa527b/)
+
+
+
 
 
 
