@@ -45,5 +45,11 @@ YasKam24@github:~$ ./Welcome.sh
 <a href="https://www.leetcode.com/anirudh_gupta07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirudh_gupta07" height="30" width="40" /></a>
 </p>
 
+<p align='center'>
+  <img align="center" src="https://github.com/YasKam24/YasKam24/blob/main/github_stats.svg">
+</p>
+
+
+
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
