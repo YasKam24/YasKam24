@@ -43,8 +43,10 @@ YasKam24@github:~$ ./HelloEveryone.sh
 </div>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kamble-415aa527b/)
-
+<p align='center'>
+<a href="https://www.linkedin.com/in/anirudh-gupta-45a52b295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh gupta" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anirudh_gupta07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirudh_gupta07" height="30" width="40" /></a>
+</p>
 
 
 
