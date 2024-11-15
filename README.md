@@ -2,8 +2,8 @@
 
 ## Check out my typing animation!
 
-[![Typing Animation](https://img.shields.io/badge/Visit%20Typing%20Animation-%2300ff00?style=for-the-badge)](https://yaskam24.github.io/YasKam24/)
 
+![Typing Animation](https://github.com/YasKam24/YasKam24/blob/main/assests/Animation.gif)
 
 
 
