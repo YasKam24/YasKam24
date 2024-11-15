@@ -1,5 +1,4 @@
 const fs = require('fs')
-
 const nunjucks = require('nunjucks')
 const { GithubUser } = require('./src/github')
 const themes = require("./src/theme")
