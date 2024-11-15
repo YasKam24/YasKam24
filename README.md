@@ -1,19 +1,15 @@
 
-<p align="center">
-  <img src="https://github.com/YasKam24/YasKam24/blob/main/assests/Animation.gif" alt="Typing Animation">
-</p>
-
-
-
-
-
-
 ``` Console
 YasKam24@github:~$ ./HelloEveryone.sh
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=YasKam24)
+<p align="center">
+  <img src="https://github.com/YasKam24/YasKam24/blob/main/assests/Animation.gif" alt="Typing Animation">
+</p>
 
+<p align='center'>
+![Profile Views](https://komarev.com/ghpvc/?username=YasKam24)
+</p>
 
 
 ```
