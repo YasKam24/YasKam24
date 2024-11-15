@@ -1,0 +1,17 @@
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      fill: black;
+      font-size: 24px;
+      font-family: monospace;
+      white-space: pre;
+      overflow: hidden;
+      animation: typing 3.5s steps(20) infinite alternate;
+    }
+    @keyframes typing {
+      from { stroke-dasharray: 0, 100; }
+      to { stroke-dasharray: 100, 0; }
+    }
+  </style>
+  <text x="10" y="50" class="text">YasKam24</text>
+</svg>
