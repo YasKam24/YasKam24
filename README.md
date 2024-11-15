@@ -16,7 +16,7 @@ YasKam24@github:~$ ./Welcome.sh
 -------------------------
 🏫 BTech in Indian Institute of Science, Bangalore
 🔎 Currently Exploring
-🌟 Main languages: Python, C/C++, JavaScript, Typescript
+🌟 Main languages: Python, C/C++, JavaScript, Typescript, Hindi, Marathi, English 
 🚩 Interested in Securities Stuff
 🖌️ Love talking with friends and roaming in free time
 🎵 Love Relax, instrumental, party songs
@@ -45,21 +45,3 @@ YasKam24@github:~$ ./Welcome.sh
 </p>
 
 
-
-
-
-
-<!--
-**YasKam24/YasKam24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
