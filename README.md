@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Typing Animation](https://raw.githubusercontent.com/YasKam24/YasKam24/main/Name.svg)
+
+
+
 ```
                         _    _                           _                                   _             _ 
                       /' `\ ' \      )                  ' )   _/                          _-~ `\       _--~/'
