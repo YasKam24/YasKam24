@@ -40,16 +40,16 @@ YasKam24@github:~$ ./Welcome.sh
 </div>
 
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/anirudh-gupta-45a52b295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh gupta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anirudh_gupta07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirudh_gupta07" height="30" width="40" /></a>
-</p>
+
 
 <p align='center'>
   <img align="center" src="https://github.com/YasKam24/YasKam24/blob/main/github_stats.svg">
 </p>
 
-
+<p align='center'>
+<a href="https://www.linkedin.com/in/anirudh-gupta-45a52b295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh gupta" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anirudh_gupta07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirudh_gupta07" height="30" width="40" /></a>
+</p>
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
