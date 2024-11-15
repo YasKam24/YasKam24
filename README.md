@@ -1,7 +1,3 @@
-## Hi there 👋
-
-## Check out my typing animation!
-
 
 <p align="center">
   <img src="https://github.com/YasKam24/YasKam24/blob/main/assests/Animation.gif" alt="Typing Animation">
