@@ -1,16 +1,22 @@
-<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="100">
   <style>
     .text {
-      fill: black;
-      font-size: 24px;
       font-family: monospace;
+      font-size: 40px;
+      fill: black;
       white-space: pre;
-      overflow: hidden;
-      animation: typing 3.5s steps(20) infinite alternate;
+      stroke-dasharray: 0, 100;
+      stroke-dashoffset: 0;
+      animation: typing 3s steps(20) 1, blink 0.75s step-end infinite;
     }
+
     @keyframes typing {
-      from { stroke-dasharray: 0, 100; }
-      to { stroke-dasharray: 100, 0; }
+      0% { stroke-dasharray: 0, 100; }
+      100% { stroke-dasharray: 100, 0; }
+    }
+
+    @keyframes blink {
+      50% { border-color: transparent; }
     }
   </style>
   <text x="10" y="50" class="text">YasKam24</text>
