@@ -17,7 +17,7 @@ YasKam24@github:~$ ./Welcome.sh
 🏫 BTech in the Indian Institute of Science, Bangalore
 🔎 Currently Exploring
 🌟 Main languages: Python, C/C++, JavaScript, Typescript, Hindi, Marathi, English 
-🚩 Interested in Securities Stuff
+🚩 Interested in Distributed Systems
 🖌️ Love talking with friends and roaming in my free time
 🎵 Love Relax, instrumental, party songs
 -----------------------------------------------------------------
