@@ -34,13 +34,10 @@ YasKam24@github:~$ ./Welcome.sh
 
 
 
-<p align='center'>
-  <img align="center" src="https://github.com/YasKam24/YasKam24/blob/main/github_stats.svg">
-</p>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/yash-kamble-415aa527b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh gupta" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/YasKam24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirudh_gupta07" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-kamble-415aa527b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yash Kamble" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/YasKam24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="YasKam24" height="30" width="40" /></a>
 </p>
 
 
